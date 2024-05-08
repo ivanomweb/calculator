@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.keyboard {
+}
+
+.key {
+  width: 30px;
+  height: 25px;
+  background-color: grey;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
